@@ -9,3 +9,4 @@ https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop
 - User-Product Matrix has a sparsity of 99.9285%
 
 - User-Brand Matrix has a sparsity of 98.8192%
+
